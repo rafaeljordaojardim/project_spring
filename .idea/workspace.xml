@@ -2,8 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a524233-ac31-41ea-9b13-6a3e9dad7064" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/ValidationMessages.properties.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/messages.properties.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/fragments/validacao.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rodrigo/projetoExemplo/domain/Cargo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rodrigo/projetoExemplo/domain/Cargo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rodrigo/projetoExemplo/domain/Departamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rodrigo/projetoExemplo/domain/Departamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rodrigo/projetoExemplo/web/controller/CargoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rodrigo/projetoExemplo/web/controller/CargoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rodrigo/projetoExemplo/web/controller/DepartamentoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rodrigo/projetoExemplo/web/controller/DepartamentoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/cargo/cadastro.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/cargo/cadastro.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/departamento/cadastro.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/departamento/cadastro.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/rodrigo/projetoExemplo/domain/Cargo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/rodrigo/projetoExemplo/domain/Cargo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/rodrigo/projetoExemplo/domain/Departamento.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/rodrigo/projetoExemplo/domain/Departamento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/rodrigo/projetoExemplo/web/controller/CargoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/rodrigo/projetoExemplo/web/controller/CargoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/rodrigo/projetoExemplo/web/controller/DepartamentoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/rodrigo/projetoExemplo/web/controller/DepartamentoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/cargo/cadastro.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/cargo/cadastro.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/departamento/cadastro.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/departamento/cadastro.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +63,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/templates/fragments" />
       <recent name="C:\Users\rodri\IdeaProjects\projetoExemplo\src\main\java\br\com\rodrigo\projetoExemplo\web\conversor" />
       <recent name="C:\Users\rodri\IdeaProjects\projetoExemplo\src\main\resources\static" />
       <recent name="C:\Users\rodri\IdeaProjects\projetoExemplo\src\main\resources\templates" />
