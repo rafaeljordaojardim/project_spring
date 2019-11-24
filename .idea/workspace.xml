@@ -2,22 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a524233-ac31-41ea-9b13-6a3e9dad7064" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/ValidationMessages.properties.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/messages.properties.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/fragments/validacao.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rodrigo/projetoExemplo/web/validator/FuncionarioValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/projetoExemplo.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/br/com/rodrigo/projetoExemplo/web/validator/FuncionarioValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/messages.properties.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rodrigo/projetoExemplo/domain/Cargo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rodrigo/projetoExemplo/domain/Cargo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rodrigo/projetoExemplo/domain/Departamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rodrigo/projetoExemplo/domain/Departamento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rodrigo/projetoExemplo/web/controller/CargoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rodrigo/projetoExemplo/web/controller/CargoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rodrigo/projetoExemplo/web/controller/DepartamentoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rodrigo/projetoExemplo/web/controller/DepartamentoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/cargo/cadastro.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/cargo/cadastro.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/departamento/cadastro.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/departamento/cadastro.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/rodrigo/projetoExemplo/domain/Cargo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/rodrigo/projetoExemplo/domain/Cargo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/rodrigo/projetoExemplo/domain/Departamento.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/rodrigo/projetoExemplo/domain/Departamento.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/rodrigo/projetoExemplo/web/controller/CargoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/rodrigo/projetoExemplo/web/controller/CargoController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/rodrigo/projetoExemplo/web/controller/DepartamentoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/rodrigo/projetoExemplo/web/controller/DepartamentoController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/cargo/cadastro.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/cargo/cadastro.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/departamento/cadastro.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/departamento/cadastro.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rodrigo/projetoExemplo/domain/Endereco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rodrigo/projetoExemplo/domain/Endereco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rodrigo/projetoExemplo/domain/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rodrigo/projetoExemplo/domain/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rodrigo/projetoExemplo/web/controller/FuncionarioController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rodrigo/projetoExemplo/web/controller/FuncionarioController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/funcionario/cadastro.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/funcionario/cadastro.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/rodrigo/projetoExemplo/domain/Endereco.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/rodrigo/projetoExemplo/domain/Endereco.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/rodrigo/projetoExemplo/domain/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/rodrigo/projetoExemplo/domain/Funcionario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/rodrigo/projetoExemplo/web/controller/FuncionarioController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/rodrigo/projetoExemplo/web/controller/FuncionarioController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/funcionario/cadastro.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/funcionario/cadastro.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,17 +55,18 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573734822603" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../projeto exemplo - stefferson/projetoExemplo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/br/com/rodrigo/projetoExemplo/web" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/br/com/rodrigo/projetoExemplo/web" />
       <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/main/resources/templates/fragments" />
       <recent name="C:\Users\rodri\IdeaProjects\projetoExemplo\src\main\java\br\com\rodrigo\projetoExemplo\web\conversor" />
       <recent name="C:\Users\rodri\IdeaProjects\projetoExemplo\src\main\resources\static" />
-      <recent name="C:\Users\rodri\IdeaProjects\projetoExemplo\src\main\resources\templates" />
     </key>
   </component>
   <component name="RunDashboard">
